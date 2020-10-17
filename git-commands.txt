@@ -1,4 +1,4 @@
-it config
+git config
 git init
 git clone
 git add
